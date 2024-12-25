@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Alery
+
+- 🔭 2021.06 graduated from BUPT, and start to work in KanYun.
 
 <!--
 **alery315/alery315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
